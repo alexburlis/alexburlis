@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexburlis
 - 👀 I love building things.
-- 🌱 I’m currently learning too much at the same time.
 - 📫 How to reach me: contact@alexburlis.com
 
 <!---
